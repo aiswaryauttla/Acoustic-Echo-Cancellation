@@ -6,5 +6,9 @@ Acoustic echo cancellers is based on adaptive appproximation of the echo path. H
 
 For evaluating the system performance, we generate several microphone signals with occurence of local speech signal at various instants after system initialization. We use metrics like system echo return loss enhancement in addition to simple auditory listening of the obtained error signal. In addition, we also view the normalised correlation of the open loop and closed loop methods.
 
+Reference:
+
+Haensler, Schmidt Acoustic Echo and Noise Control (excerpt about DTD)
+
 
 
